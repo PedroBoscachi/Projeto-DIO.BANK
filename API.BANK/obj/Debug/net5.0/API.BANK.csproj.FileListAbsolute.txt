@@ -1,0 +1,16 @@
+D:\Pedro\BOOTCAMP .NET\DIO.BANK\API.BANK\bin\Debug\net5.0\API.BANK.exe
+D:\Pedro\BOOTCAMP .NET\DIO.BANK\API.BANK\bin\Debug\net5.0\API.BANK.deps.json
+D:\Pedro\BOOTCAMP .NET\DIO.BANK\API.BANK\bin\Debug\net5.0\API.BANK.runtimeconfig.json
+D:\Pedro\BOOTCAMP .NET\DIO.BANK\API.BANK\bin\Debug\net5.0\API.BANK.runtimeconfig.dev.json
+D:\Pedro\BOOTCAMP .NET\DIO.BANK\API.BANK\bin\Debug\net5.0\API.BANK.dll
+D:\Pedro\BOOTCAMP .NET\DIO.BANK\API.BANK\bin\Debug\net5.0\ref\API.BANK.dll
+D:\Pedro\BOOTCAMP .NET\DIO.BANK\API.BANK\bin\Debug\net5.0\API.BANK.pdb
+D:\Pedro\BOOTCAMP .NET\DIO.BANK\API.BANK\obj\Debug\net5.0\API.BANK.csproj.AssemblyReference.cache
+D:\Pedro\BOOTCAMP .NET\DIO.BANK\API.BANK\obj\Debug\net5.0\API.BANK.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pedro\BOOTCAMP .NET\DIO.BANK\API.BANK\obj\Debug\net5.0\API.BANK.AssemblyInfoInputs.cache
+D:\Pedro\BOOTCAMP .NET\DIO.BANK\API.BANK\obj\Debug\net5.0\API.BANK.AssemblyInfo.cs
+D:\Pedro\BOOTCAMP .NET\DIO.BANK\API.BANK\obj\Debug\net5.0\API.BANK.csproj.CoreCompileInputs.cache
+D:\Pedro\BOOTCAMP .NET\DIO.BANK\API.BANK\obj\Debug\net5.0\API.BANK.dll
+D:\Pedro\BOOTCAMP .NET\DIO.BANK\API.BANK\obj\Debug\net5.0\ref\API.BANK.dll
+D:\Pedro\BOOTCAMP .NET\DIO.BANK\API.BANK\obj\Debug\net5.0\API.BANK.pdb
+D:\Pedro\BOOTCAMP .NET\DIO.BANK\API.BANK\obj\Debug\net5.0\API.BANK.genruntimeconfig.cache
