@@ -139,21 +139,23 @@ namespace API.BANK
                 switch(escolha){
 
                     case "1":
-                        Console.WriteLine("A empresa foi criada em 29 de Dezembro de 1998");
+                        Console.WriteLine("A empresa foi criada em 29 de Dezembro de 1998.");
                         break;
                     case "2":
-                        Console.WriteLine("A empresa foi criada em São Paulo, Brasil");
+                        Console.WriteLine("A empresa foi criada em São Paulo, Brasil.");
                         break;
                     case "3":
-                        Console.WriteLine("A empresa foi fundada por Bruce Kent e Clark Wayne");
+                        Console.WriteLine("A empresa foi fundada por Bruce Kent e Clark Wayne.");
                         break;
                     case "4":
-                        Console.WriteLine("Nosso principal objetivo é alcançar a satisfação total do cliente");
+                        Console.WriteLine("Nosso principal objetivo é alcançar a satisfação total do cliente.");
                         break;
                     default:
                         throw new ArgumentOutOfRangeException();
                 }
 
+                Console.WriteLine();
+                Console.WriteLine();
                 Console.WriteLine();
                 Console.WriteLine("Aperte qualquer tecla para continuar...");
                 Console.ReadLine();
