@@ -43,7 +43,7 @@ namespace API.BANK
                 opcaoUsuario = ObterOpcaoUsuario();
             }
 
-            Console.WriteLine("Obrigado por utilizar nossos serviços.");
+            Console.WriteLine("Obrigado por utilizar nossos serviços!!!");
             Console.ReadLine();
         }
 
